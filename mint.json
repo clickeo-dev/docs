@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#6178F1",
+    "light": "#6178F1",
+    "dark": "#6178F1",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#6178F1",
+      "to": "#8294F6"
     }
   },
   "topbarLinks": [
@@ -55,7 +55,13 @@
     },
     {
       "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation"
+      ]
     },
     {
       "group": "API Documentation",
